@@ -1,12 +1,10 @@
 ##############################################################################
 ## IMT 572 Final Project, Data Analysis & Visualization 
 ## Author: "Willie Nakpil"
-## Description: Here is the code I used for my Final Project in Intro to Data Science
-##              Analyzing Males in the US Workforce from 1980-1987
 ##############################################################################
 
 # code
-This is a compilation of R programming codes used on the **Data Professor** YouTube channel tutorial videos.
+This is the R programming code used for **IMT 572** Final Project.
 
 Folder | Description
 ---|---
