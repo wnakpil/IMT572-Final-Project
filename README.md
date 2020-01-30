@@ -1,7 +1,7 @@
 ##############################################################################
 ## IMT 572 Final Project, Data Analysis & Visualization 
 ## Author: "Willie Nakpil"
-## Description: Here is the code we used for out Final Project
+## Description: Here is the code I used for my Final Project in Intro to Data Science
 ##              Analyzing Males in the US Workforce from 1980-1987
 ##############################################################################
 
